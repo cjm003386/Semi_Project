@@ -1,0 +1,7 @@
+form {width: 700px; margin: 0 auto; border: lightgray solid 1px;}
+#agree div:nth-child(n+2) {width: 650px; margin: 0 auto;}
+textarea {width: 650px; height: 100px;}
+button {background: transparent;}
+
+
+
